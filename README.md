@@ -42,7 +42,7 @@ git commit -m "Adicionar minhas modificações"
 git push -u origin master
 Isso configurará o repositório remoto e enviará suas modificações para lá.
 
-🎉 Esperamos que este guia passo a passo tenha sido útil para você começar a explorar o projeto. Sinta-se à vontade para ajustar as instruções conforme necessário para se adequar à estrutura do seu próprio projeto. Aproveite o processo de codificação! 😄
+🎉 Anseio que este passo a passo tenha sido útil para você começar a explorar o projeto. Sinta-se à vontade para ajustar as instruções conforme necessário para se adequar à estrutura do seu próprio projeto. Aproveite o processo de codificação! 😄
 
 
 
